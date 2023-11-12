@@ -13,3 +13,7 @@
 *::before {
 	box-sizing: border-box;
 }
+
+body{
+	background-color: #1e1e1e;
+}
